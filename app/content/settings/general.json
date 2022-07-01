@@ -1,10 +1,10 @@
 {
   "title": "Home",
   "titleTemplate": "| Bluise",
-  "welcomeText": "# Yo, I'm Bluise - A Nuxt.js & Netlify CMS boilerplate.\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.",
-  "logo": "/images/uploads/logo.svg",
-  "icon": "/images/uploads/logo.png",
+  "welcomeText": "# Dengan KONSEP SYARIAH dan MAN POWER yang sudah berpengalaman & teruji dalam pengerjaan proyek PROPERTI SYARIAH, AULIA JAVA LAND bisa menjadi partner developer Anda untuk memiliki PROPERTI maupun PROYEK INVESTASI yang sejalan dengan koridor syariah Islam.",
+  "logo": "https://auliajavaland.com/wp-content/uploads/2022/06/Cara-Memilih-Lukisan-untuk-Dekorasi-Dinding-Rumah-Minimalis-Modern-www.auliajavaland.com_-1024x553.webp",
+  "icon": "https://auliajavaland.com/wp-content/uploads/2022/06/Tanda-Rumah-Perlu-Diperbaiki-www.auliajavaland.com_.webp",
   "loadingColor": "#0b3765",
-  "seoDescription": "A quickstart for Nuxt & Netlify CMS",
+  "seoDescription": "Developer Properti Syariah",
   "seoMetaImage": ""
 }
